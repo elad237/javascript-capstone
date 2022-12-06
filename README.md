@@ -26,16 +26,11 @@
 
 ## 📖 Overview <a name="about-project"></a>
 
-.
+
 
 ### Project Objectives <a name="project-objectives"></a>
 
--
 
-<h3 align="center">Wireframe Provided</h3>
-<p align="center">
-  <img width="500" src="screenshot/leaderboard_wireframe.png">
-</P>
 
 
 ## 🛠 Built With <a name="built-with"></a>
