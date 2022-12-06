@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/EngruugbeJimmy-green)
+![](https://img.shields.io/badge/EngruugbeJimmy-green) ![](https://img.shields.io/badge/elad237-green)
 
 # Leaderboard
 
