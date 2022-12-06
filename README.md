@@ -67,22 +67,21 @@
 
 Clone this repository
 
-$ git https://github.com/elad237/javascript-capstone.git
+- $ git https://github.com/elad237/javascript-capstone.git
 
-$ cd javascript-group-capstone-project
-Generating your own key
+- $ cd javascript-group-capstone-project
+ Generating your own key
 
-Navigate to scrc/app.js and paste 📋 the following function:
+- - Navigate to scrc/app.js and paste 📋 the following function:
 
-import getKey from './modules/getkey.js';
+- import getKey from './modules/getkey.js';
 getKey();
 
-check you console in the browser the key is returned as an error in the format: u06lzZuHDEVnvjfd4K1F Run Webpack
+- check you console in the browser the key is returned as an error in the format: u06lzZuHDEVnvjfd4K1F Run Webpack
 
-$ npm init -y
+- $ npm init -y
 Open in Browser
-
-$ npm run start #this will launch the webpack server
+- $ npm run start #this will launch the webpack server
 
 
 - [Optional] Install git bash to your machine to enable you to clone this repo.
