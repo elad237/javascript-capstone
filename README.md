@@ -131,7 +131,7 @@ GitHub: [@githubhandle](https://github.com/elad237)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Link to our video presentation
-- [Video Presentation](https://github.com/elad237/javascript-capstone/pull/10)
+- [Video Presentation](https://www.loom.com/share/e1bc1690656749cfba0a24f683198cf7)
 
 ## Link to our Kanban Board <a name="kanban-board"></a>
 
