@@ -1,11 +1,8 @@
 import './style.css';
 import './imgs/bg1.png';
-<<<<<<< HEAD
 import { fetchLikes, postLike } from './modules/likes.js';
 import comments from './modules/comments/comments.js';
 import itemsCounter from './modules/itemsCounter.js';
-=======
->>>>>>> main
 
 const displaySeries = async (number) => {
   await fetch('https://api.tvmaze.com/shows')
@@ -15,7 +12,6 @@ const displaySeries = async (number) => {
         const cardsContainer = document.querySelector('.cards-container');
         cardsContainer.innerHTML += `<div class="card">
             <img src="${data[i].image.medium}" alt="Sample photo" class="card-image" />
-<<<<<<< HEAD
             <div class="series-title">${data[i].name}</div>
             <div class="heart" id="like-${data[i].id}">♥</div>
             <div class="likes" id=${data[i].id}>0 likes</div>
@@ -66,17 +62,3 @@ const setUpPage = async () => {
 comments(15);
 
 setUpPage();
-=======
-             <div class="series-title">${data[i].name}</div>
-            <div class="heart">❤️</div>
-            <div class="likes">5 likes</div>
-            <div class="button-container">
-                <button name=${data[i].id} class="comments-button">Comments</button>
-            </div>
-        </div>`;
-      }
-    });
-};
-
-displaySeries(15);
->>>>>>> main

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "javascript_capstone",
-=======
-  "name": "javascript-capstone",
->>>>>>> main
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -15,25 +11,15 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "git+https://github.com/storres20/javascript_capstone.git"
-=======
-    "url": "git+https://github.com/elad237/javascript-capstone.git"
->>>>>>> main
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-<<<<<<< HEAD
     "url": "https://github.com/storres20/javascript_capstone/issues"
   },
   "homepage": "https://github.com/storres20/javascript_capstone#readme",
-=======
-    "url": "https://github.com/elad237/javascript-capstone/issues"
-  },
-  "homepage": "https://github.com/elad237/javascript-capstone#readme",
->>>>>>> main
   "devDependencies": {
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
@@ -57,10 +43,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-<<<<<<< HEAD
     "bootstrap": "^5.2.3",
-=======
->>>>>>> main
     "lodash": "^4.17.21"
   }
 }
