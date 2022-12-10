@@ -130,6 +130,9 @@ GitHub: [@githubhandle](https://github.com/elad237)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Link to our video presentation
+- [Video Presentation](https://github.com/elad237/javascript-capstone/pull/10)
+
 ## Link to our Kanban Board <a name="kanban-board"></a>
 
 - [Kanban Board](https://github.com/users/elad237/projects/6)
