@@ -25,6 +25,7 @@
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [Kanban Board](#kanban-board)
+-[video presenation] (#video-presentation)
 - [Top Pull Requests](#pull-requests)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -133,6 +134,10 @@ GitHub: [@githubhandle](https://github.com/elad237)
 ## Link to our Kanban Board <a name="kanban-board"></a>
 
 - [Kanban Board](https://github.com/users/elad237/projects/6)
+
+## Link to Video presen <a nametation="video-presentation"></a>
+
+-[video presentation link] (https://www.loom.com/share/62e77610be734808b109473b4198bfba)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
